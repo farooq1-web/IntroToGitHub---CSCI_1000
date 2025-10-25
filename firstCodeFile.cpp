@@ -5,7 +5,8 @@ int main()
 {
     cout<<"I created an SSH Key";
     int num[10] = {1,2,3,4,5,6,7,8,9,10};
-    for(i=0;i<num;i++)
+    //Fixing the for loop
+    for(int i=0;i<10;i++)
     {
         cout<<num[i]<<endl;
     }
