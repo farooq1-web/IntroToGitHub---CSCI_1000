@@ -26,6 +26,7 @@ git@github.com:farooq1-web/IntroToGitHub---CSCI_1000.git
 ### License
 This project is licensed under the MIT License
 
+![GitHub Logo](GitHubLogo.webp)
 
 
 #### **Make sure to check out my other repositories**
